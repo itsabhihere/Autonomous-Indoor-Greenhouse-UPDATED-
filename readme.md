@@ -4,7 +4,7 @@ Monitoring the internal parameters of greenhouse like temperature and humidity a
 <div align=”center”> ![image](https://user-images.githubusercontent.com/62765849/103228301-80b08800-4956-11eb-8358-d4a2dc70527d.png)</div>
 
 <p align="center">
-  <img width="460" height="300" src="![image](https://user-images.githubusercontent.com/62765849/103228301-80b08800-4956-11eb-8358-d4a2dc70527d.png)">
+  <img src="![image](https://user-images.githubusercontent.com/62765849/103228301-80b08800-4956-11eb-8358-d4a2dc70527d.png)">
 </p>
 
 
