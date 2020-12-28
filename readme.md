@@ -12,13 +12,14 @@ The project proposes designing of greenhouse system which has various sensors fo
 The main objective of this Project is to make a simple, autonomous greenhouse system for controlling the different parameters of the greenhouse using Arduino Uno, Nodemcu and Internet of things. It also provides the facility to monitor and control the greenhouse from anywhere in the world. The system mainly concentrates on how to control lighting, water level, temperature fluctuations and many, which can help humans to grow plants and vegetables easily in their Home. It also improves Convenience, comfort, energy efficiency and time because of being autonomous.  To Build miniature greenhouse which is equipped with automatic monitoring and controlling system  Send/Monitor the status of the Greenhouse system by sending the data through IOT Website.  Change the status (turn ON/OFF) of the device upon receiving commands through Website or Android application.  To maintain the history of parameter records.  Ease of accessing and simplicity on maintenance.  Advanced connectivity of physical objects over a wide network.  Display status of the Greenhouse in an OLED screen placed on the structure of the greenhouse.  It focuses on saving water, increasing efficiency and reducing the environmental impacts on plants production.
 
 ## Advantages
-  Total automation of greenhouses / nurseries / bio tech parks. 
-  Remote device control, can be controlled from anywhere in the world. 
-  Can be used domestically. 
-  Easy to use, install, operate & troubleshoot. 
-  Useful for greenhouse owners, small scale farmers. Low cost setup. 
-  No Manual intervention needed.
-
+ <ul>
+ <li> Total automation of greenhouses / nurseries / bio tech parks. 
+ <li> Remote device control, can be controlled from anywhere in the world. 
+ <li> Can be used domestically. 
+ <li> Easy to use, install, operate & troubleshoot. 
+ <li> Useful for greenhouse owners, small scale farmers. Low cost setup. 
+ <li> No Manual intervention needed.
+ </ul>
 ## Devices and Apps Used:
 1.*NodeMCU*:NodeMcu is an open source IOT platform. It includes firmware which runs on the ESP8266 wi-fi soc, and hardware which is based on the ESP-12 module. Basically you can say it's a integrated platform of ESP8266 wifi module and Arduino platform, so that you need not worry about circuit connection of WiFi Module with Arduino individually with wires which creates a problem while connecting to the internet.
 
