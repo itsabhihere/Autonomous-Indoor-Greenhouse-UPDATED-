@@ -1,8 +1,7 @@
 # Autonomous Indoor Greenhouse using IoT
 Monitoring the internal parameters of greenhouse like temperature and humidity and controlling the devices remotely using IoT.
 
-![image](https://user-images.githubusercontent.com/62765849/103227991-c9b40c80-4955-11eb-8c77-108c9933f2e4.png)
-
+<div align=”center”> ![image](https://user-images.githubusercontent.com/62765849/103227991-c9b40c80-4955-11eb-8c77-108c9933f2e4.png)</div>
 
 Propose contribution to the development of a prototype of an automated greenhouse monitoring and control system. This project presents the design and development of an electronic system based on a Wi-Fi embedded microcontroller that integrates remote sensing functions rooted in the cloud computing using internet of things (IoT). The system allows the acquisition of different climatic parameters in an agricultural greenhouse and in addition, this electronic system achieves the remote controlling of climatic parameters, by cloud computing solutions (internet of things). 
 
