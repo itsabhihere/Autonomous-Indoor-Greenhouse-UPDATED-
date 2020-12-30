@@ -1,7 +1,7 @@
 # Autonomous Indoor Greenhouse using IoT
 Monitoring the internal parameters of greenhouse like temperature and humidity and controlling the devices remotely using IoT.
 
-![updated](https://user-images.githubusercontent.com/62765849/103232596-ddb13b80-4960-11eb-858c-74dc65aa5a39.png)
+![image2](https://user-images.githubusercontent.com/62765849/103352708-fb9baf00-4acc-11eb-87ae-5196559bac61.jpg)
 
 
 
@@ -216,5 +216,7 @@ This is Micro Submersible Water Pump DC 3V-5V, can be easily integrated to our p
 
 
 ## PROJECT VIDEO
+ 
+**The SOURCE CODE files are in the repo, download it, and use it in Arduino IDE.**
 
 THANKS FOR WATCHING!!!
