@@ -15,7 +15,7 @@ Propose contribution to the development of a prototype of an automated greenhous
   <li>The system mainly concentrates on how to control lighting, water level, temperature fluctuations and many, which can help humans to grow plants and vegetables easily in their home. It also improves Convenience, comfort, energy efficiency and time because of being autonomous.
 </ul>  
 
-![Untitled](https://user-images.githubusercontent.com/62765849/103340987-94b9ce00-4aab-11eb-9948-57c82dd5eb74.png)
+![Untitled](https://user-images.githubusercontent.com/62765849/103345077-6ab9d900-4ab6-11eb-85d2-10880250d493.png)
 In this circuit we have used DHT11 sensor for detecting the temperature and humidity of the surroundings of plants, LDR sensor to measure the light intensity through which the status of the lights will change to ON/OFF according to the programming of the micro-controllers, soil moisture sensor to measure the soil moisture level, all the sensors are connected to the Arduino uno, whereas, a 4-channel relay is connected to Nodemcu V3 which is controlled both with the arduino programming and the web interface on adafruit IO, a OLED screen to display the live sensor reading. The sensors will collect the data from its surroundings and soil, then further send the data from arduino uno to nodemcu with the help of serial communication. The nodemcu will further connect the project with internet and its cloud servers and we can easily monitor/control the greenhouse system.
 
 
@@ -180,7 +180,8 @@ Microcontroller ESP-8266 32-bit
   </ol>
 <ul>
 
-![soil](https://user-images.githubusercontent.com/62765849/103343305-ccc40f80-4ab1-11eb-8af3-a2c7ac3a1034.png)
+![soil](https://user-images.githubusercontent.com/62765849/103345190-b79daf80-4ab6-11eb-9359-62363eb5c3c6.png)
+
 
 ### LDR sensor:
 <ul>
